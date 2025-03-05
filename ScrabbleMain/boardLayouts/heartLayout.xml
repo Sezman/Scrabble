@@ -1,0 +1,42 @@
+<board>
+    <premiumSquares>
+        <type name="DL">
+            <position row="1" col="5" />
+            <position row="1" col="9" />
+            <position row="2" col="3" />
+            <position row="2" col="11" />
+            <position row="4" col="2" />
+            <position row="4" col="12" />
+            <position row="9" col="3" />
+            <position row="9" col="11" />
+            <position row="10" col="4" />
+            <position row="10" col="10" />
+        </type>
+        <type name="TL">
+            <position row="3" col="2" />
+            <position row="3" col="12" />
+            <position row="8" col="2" />
+            <position row="8" col="12" />
+        </type>
+        <type name="DW">
+            <position row="2" col="6" />
+            <position row="2" col="8" />
+            <position row="5" col="1" />
+            <position row="5" col="13" />
+            <position row="7" col="1" />
+            <position row="7" col="13" />
+            <position row="11" col="5" />
+            <position row="11" col="9" />
+            <position row="12" col="6" />
+            <position row="12" col="8" />
+        </type>
+        <type name="TW">
+            <position row="1" col="4" />
+            <position row="1" col="10" />
+            <position row="3" col="7" />
+            <position row="6" col="1" />
+            <position row="6" col="13" />
+            <position row="13" col="7" />
+        </type>
+    </premiumSquares>
+</board>

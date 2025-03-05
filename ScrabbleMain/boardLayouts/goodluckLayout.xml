@@ -1,0 +1,80 @@
+<board>
+    <premiumSquares>
+        <type name="DL">
+            <position row="0" col="6" />
+            <position row="0" col="8" />
+            <position row="2" col="7" />
+            <position row="3" col="6" />
+            <position row="3" col="8" />
+            <position row="5" col="1" />
+            <position row="5" col="13" />
+            <position row="6" col="6" />
+            <position row="6" col="8" />
+            <position row="7" col="5" />
+            <position row="7" col="9" />
+            <position row="8" col="6" />
+            <position row="8" col="8" />
+            <position row="9" col="1" />
+            <position row="9" col="13" />
+            <position row="11" col="6" />
+            <position row="11" col="8" />
+            <position row="12" col="7" />
+            <position row="14" col="6" />
+            <position row="14" col="8" />
+        </type>
+        <type name="TL">
+            <position row="1" col="9" />
+            <position row="2" col="10" />
+            <position row="3" col="11" />
+            <position row="4" col="12" />
+            <position row="5" col="4" />
+            <position row="5" col="10" />
+            <position row="6" col="3" />
+            <position row="6" col="11" />
+            <position row="8" col="3" />
+            <position row="8" col="11" />
+            <position row="9" col="4" />
+            <position row="9" col="10" />
+            <position row="10" col="2" />
+            <position row="11" col="3" />
+            <position row="12" col="4" />
+            <position row="13" col="5" />
+        </type>
+        <type name="DW">
+            <position row="1" col="5" />
+            <position row="2" col="4" />
+            <position row="3" col="3" />
+            <position row="4" col="2" />
+            <position row="4" col="5" />
+            <position row="4" col="9" />
+            <position row="10" col="5" />
+            <position row="10" col="9" />
+            <position row="10" col="12" />
+            <position row="11" col="11" />
+            <position row="12" col="10" />
+            <position row="13" col="9" />
+        </type>
+        <type name="TW">
+            <position row="0" col="2" />
+            <position row="0" col="12" />
+            <position row="1" col="1" />
+            <position row="1" col="13" />
+            <position row="2" col="0" />
+            <position row="2" col="14" />
+            <position row="5" col="7" />
+            <position row="6" col="0" />
+            <position row="6" col="14" />
+            <position row="7" col="2" />
+            <position row="7" col="12" />
+            <position row="8" col="0" />
+            <position row="8" col="14" />
+            <position row="9" col="7" />
+            <position row="12" col="0" />
+            <position row="12" col="14" />
+            <position row="13" col="1" />
+            <position row="13" col="13" />
+            <position row="14" col="2" />
+            <position row="14" col="12" />
+        </type>
+    </premiumSquares>
+</board>
