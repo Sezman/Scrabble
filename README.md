@@ -12,7 +12,6 @@ Whether you're a casual player or a competitive Scrabble enthusiast, this projec
 
 ## 📌 Features  
 - [ ] Multiplayer support  
-- [ ] AI-powered opponent (if applicable)  
 - [ ] Custom dictionary support  
 - [ ] Save & load game state  
 
